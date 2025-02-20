@@ -1,4 +1,7 @@
 /********** Template CSS **********/
+html {
+    scroll-behavior: smooth;
+}
 :root {
     --primary: #65B530;
     --secondary: #9B9B9B;
@@ -254,7 +257,7 @@
 }
 
 .page-header {
-    background: linear-gradient(rgba(22, 22, 22, .7), rgba(22, 22, 22, .7)), url(../img/carousel-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(22, 22, 22, .7), rgba(22, 22, 22, .7)), url(../img/img1.jpg) center center no-repeat;
     background-size: cover;
 }
 
